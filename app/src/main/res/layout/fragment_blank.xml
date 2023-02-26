@@ -49,5 +49,4 @@
         android:insetRight="10dp"
         android:text="Кнопка 3" />
 
-
 </FrameLayout>

@@ -1,5 +1,8 @@
 <resources>
     <string name="app_name">My Application</string>
-    <!-- TODO: Remove or change this placeholder text -->
-    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="button9_text">Кнопка 1</string>
+    <string name="button14_text">Кнопка 2</string>
+    <string name="button15_text">Кнопка 3</string>
+    <string name="textView5_text">Здесь мог быть ваш текст</string>
+    <string name="textView8_text">Здесь тоже мог быть ваш текст</string>
 </resources>
